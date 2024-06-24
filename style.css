@@ -1,0 +1,74 @@
+div>h1{
+    color: rgb(75, 75, 238);
+    margin-top: 25%;
+    margin-left: 25%;
+    font-size: 60px;
+}
+div>p{
+    margin-top: -30px;
+    margin-left: 25%; 
+}
+
+div>form{
+    background-color:#fff;
+    height: 390px;
+    margin-top:-260px;
+    border-radius: 12px;
+    margin-left: 750px;
+    width: 450px;
+    border: 1px solid;
+}
+#email{
+    margin-top: 15px; 
+    margin-left: 25PX;  
+    padding-top: 10px;
+    width: 400px;
+
+}
+#password1{
+    margin-top: 15px;
+    margin-left: 25px;
+    padding-top: 10px;
+    width: 400px;
+
+    
+    
+
+}
+#button1{
+    margin-left:23px;
+    padding-top: 10px;
+    padding-bottom: -10px;
+    background-color: rgb(79, 180, 219);
+    border: 1px solid;
+    border-color: rgb(79, 180, 219);
+    border-radius: 10px;
+    outline: none;
+    text-align: center;
+    color: #fff;
+    height: 50px;
+    width: 400px;
+    cursor: pointer;
+}
+#password{
+color: rgb(79, 180, 219);
+margin: 25px 25px;
+margin-left: 175px;
+}
+#button2{
+    margin-left:125px;
+    padding-top: 10px;
+    padding-bottom: -10px;
+    background-color: rgb(30, 255, 0);
+    border: 1px solid;
+    border-color: rgb(0, 255, 0);
+    border-radius: 10px;
+    outline: none;
+    text-align: center;
+    color: #fff;
+    height: 50px;
+    width: 200px;
+    cursor: pointer;
+
+
+}
